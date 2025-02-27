@@ -223,9 +223,11 @@ Android Interview Questions and Answers:
 
 * **What is the equivalent of Java static methods in Kotlin?** - [Learn from here](https://stackoverflow.com/questions/40352684/what-is-the-equivalent-of-java-static-methods-in-kotlin)
 
-* **How to create a Singleton class in Kotlin?** - [Learn from here](https://stackoverflow.com/questions/51834996/singleton-class-in-kotlin)
+* **How to create a Singleton class in Kotlin?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7297112198252806144-97Eh)
 
 * **What is the difference between `open` and `public` in Kotlin?** - [Learn from here](https://outcomeschool.com/blog/open-keyword-in-kotlin)
+
+* **`let` scope function and its use cases** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7297672603203223552-_9zp)
 
 * **Explain the use-case of `let`, `run`, `with`, `also`, `apply` in Kotlin.** - Learn from [here](https://kotlinlang.org/docs/scope-functions.html) and [here](https://stackoverflow.com/questions/45977011/example-of-when-should-we-use-run-let-apply-also-and-with-on-kotlin)
 
@@ -262,6 +264,10 @@ Android Interview Questions and Answers:
 * **What is a Job in Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7268842850140721153-vw9E)
 
 * **How to Implement Debounce Using Coroutines?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7285163906686164994-tOUK)
+
+* **Kotlin code snippet demonstrating how to run two coroutines in series and parallel** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7297944609614139392-h9NZ/)
+
+* **yield in Kotlin Coroutines** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7298934394113638400-ZY-y)
 
 ### Android
 
@@ -640,7 +646,7 @@ Android Interview Questions and Answers:
 
 * **MVC vs MVP vs MVVM architecture.**
 
-* **Clean Architecture**
+* **Clean Architecture** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-kotlin-activity-7123192186627571714-6143)
 
 * **MVI** - [MVI (Model-View-Intent) Architecture in Android](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineering-tech-activity-7288428333430644738-muDc)
 
@@ -650,10 +656,10 @@ Android Interview Questions and Answers:
 
 Android Interview Questions and Answers
 
-* **Builder**
+* **Builder** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_outcomeschool-softwareengineer-tech-activity-7297905207080800256-sRuJ)
 * **Singleton**
-* **Factory**
-* **Observer**
+* **Factory** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7300164529571733505-MYfP)
+* **Observer** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7298657173910233089-3qzw)
 * **Repository**
 * **Adapter**
 * **Facade**
@@ -661,6 +667,8 @@ Android Interview Questions and Answers
 * **Design Pattern used in Android** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7289501147243982848-hhym)
 * **Kotlin Optional Parameters vs Builder Pattern** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7270656113845370881-LDW8)
 * **Examples of the Observer pattern used in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-activity-7288114509120970752-Z6c8)
+* **Design Pattern Used in Retrofit Library Source Code** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-opensource-activity-7289173219142516738-3sjB/)
+* **Design Pattern used in Glide (Image Loading Library)** - [Learn from here](https://www.linkedin.com/posts/pallavi-shekhar_androiddev-android-opensource-activity-7294335764249595904-6LSD)
 
 ### Android System Design
 
@@ -708,6 +716,10 @@ Refer to this blog: [**Android System Design Interviews**](https://outcomeschool
 
 * **Firebase Remote Config in Android** - [Firebase Remote Config in Android](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7288408601944043520-pHZX)
 
+* **Accurate time in Android** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7298341712634990592-tgyR)
+
+* **Query Optimization in SQLite for Better Performance** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7299289876846284801-3gfH)
+
 ### Android Unit Testing
 
 Android Interview Questions and Answers:
@@ -730,11 +742,13 @@ Android Interview Questions and Answers:
 
 * **Why Mockito is used?** - [Learn from here](http://site.mockito.org/)
 
-* **Describe code coverage.**
+* **Describe code coverage.** - [Learn from here](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineer-tech-activity-7298564060105609217-8zXA)
 
 ### Android Tools And Technologies
 
 Android Interview Questions and Answers:
+
+* **CI/CD Pipeline for Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7294600775178063872-Q0oY/)
 
 * **What is ADB?** - [Learn from here](https://developer.android.com/studio/command-line/adb)
 
@@ -764,19 +778,25 @@ Android Interview Questions and Answers:
 
 * **How do you create a custom task in Gradle?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_softwareengineer-androiddev-android-activity-7282991795133685760-uUxE/)
 
+* **annotationProcessor, kapt, ksp in Gradle** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7296566489803866112-DnT8)
+
+* **Build Variants in Android** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7298197111030824962-6vW0)
+
 * **APK Size Reduction.**
 
 * **How can you speed up the Gradle build?**
 
 * **About gradle build system.**
 
-* **About multiple apk for android application.**
+* **About multiple apk for Android Apps.**
 
 * **What is ProGuard used for?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-activity-7218840466283220993-afVr)
 
+* **What is proguard-rules.pro file used for?** - [Learn from here](https://www.linkedin.com/posts/amit-shekhar-iitbhu_outcomeschool-softwareengineer-tech-activity-7300763237942181888-P_jL)
+
 * **What is obfuscation? What is it used for? What about minification?**
 
-* **How to change some parameters in an app without app update?**
+* **How to change some parameters in an app without app update?** - [Firebase Remote Config in Android](https://www.linkedin.com/posts/outcomeschool_outcomeschool-softwareengineering-tech-activity-7288408601944043520-pHZX)
 
 * **What is Write-Ahead Logging (WAL) and why it is used internally in databases?** - [Learn from here](https://outcomeschool.com/blog/write-ahead-logging)
 
